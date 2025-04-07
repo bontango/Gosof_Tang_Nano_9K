@@ -1,0 +1,12 @@
+[General]
+ipc_version=4
+file=RIOT_RAM
+module=RIOT_RAM
+target_device=gw1nr9c-004
+type=ssram_ram16s
+version=1.0
+
+[Config]
+DEPTH=128
+LANG=1
+WIDTH=8
