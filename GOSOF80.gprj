@@ -1,0 +1,32 @@
+<?xml version="1" encoding="UTF-8"?>
+<!DOCTYPE gowin-fpga-project>
+<Project>
+    <Template>FPGA</Template>
+    <Version>5</Version>
+    <Device name="GW1NR-9C" pn="GW1NR-LV9QN88PC6/I5">gw1nr9c-004</Device>
+    <FileList>
+        <File path="src/DFPlayer_Mini_CMD.vhd" type="file.vhdl" enable="1"/>
+        <File path="src/GOSOF80.vhd" type="file.vhdl" enable="1"/>
+        <File path="src/RIOT/R6532.vhd" type="file.vhdl" enable="1"/>
+        <File path="src/RIOT/riot.vhd" type="file.vhdl" enable="1"/>
+        <File path="src/RIOT_RAM/RIOT_RAM.vhd" type="file.vhdl" enable="1"/>
+        <File path="src/SD_Card.vhd" type="file.vhdl" enable="1"/>
+        <File path="src/SPI_Master.vhd" type="file.vhdl" enable="1"/>
+        <File path="src/T65/T65.vhd" type="file.vhdl" enable="1"/>
+        <File path="src/T65/T65_ALU.vhd" type="file.vhdl" enable="1"/>
+        <File path="src/T65/T65_MCode.vhd" type="file.vhdl" enable="1"/>
+        <File path="src/T65/T65_Pack.vhd" type="file.vhdl" enable="1"/>
+        <File path="src/Votrax-SC01.vhd" type="file.vhdl" enable="1"/>
+        <File path="src/background_sound.vhd" type="file.vhdl" enable="1"/>
+        <File path="src/cpu_clk_gen.vhd" type="file.vhdl" enable="1"/>
+        <File path="src/dac.vhd" type="file.vhdl" enable="1"/>
+        <File path="src/gowin_ram16s/Soundrom.vhd" type="file.vhdl" enable="1"/>
+        <File path="src/gowin_rpll/gowin_rpll.vhd" type="file.vhdl" enable="1"/>
+        <File path="src/gowin_sp/gowin_sp.vhd" type="file.vhdl" enable="1"/>
+        <File path="src/slow_to_fast_clock_bus.vhd" type="file.vhdl" enable="1"/>
+        <File path="src/sound_input.vhd" type="file.vhdl" enable="1"/>
+        <File path="src/soundtest.vhd" type="file.vhdl" enable="1"/>
+        <File path="src/GOSOF80.cst" type="file.cst" enable="1"/>
+        <File path="src/GOSOF80.sdc" type="file.sdc" enable="1"/>
+    </FileList>
+</Project>
