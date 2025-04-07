@@ -1,0 +1,115 @@
+GowinSynthesis start
+Running parser ...
+Analyzing VHDL file 'N:\Projekte\Soundboards\FPGA Soundboard GTB\source\HW 3.x GOSOF Tang nano 9K\src\DFPlayer_Mini_CMD.vhd'
+Analyzing entity 'dfplayer_mini_cmd'("N:\Projekte\Soundboards\FPGA Soundboard GTB\source\HW 3.x GOSOF Tang nano 9K\src\DFPlayer_Mini_CMD.vhd":58)
+Analyzing architecture 'behavioral'("N:\Projekte\Soundboards\FPGA Soundboard GTB\source\HW 3.x GOSOF Tang nano 9K\src\DFPlayer_Mini_CMD.vhd":71)
+Analyzing VHDL file 'N:\Projekte\Soundboards\FPGA Soundboard GTB\source\HW 3.x GOSOF Tang nano 9K\src\Votrax-SC01.vhd'
+Analyzing entity 'sc01'("N:\Projekte\Soundboards\FPGA Soundboard GTB\source\HW 3.x GOSOF Tang nano 9K\src\Votrax-SC01.vhd":19)
+Analyzing architecture 'behavioral'("N:\Projekte\Soundboards\FPGA Soundboard GTB\source\HW 3.x GOSOF Tang nano 9K\src\Votrax-SC01.vhd":29)
+Analyzing VHDL file 'N:\Projekte\Soundboards\FPGA Soundboard GTB\source\HW 3.x GOSOF Tang nano 9K\src\slow_to_fast_clock_bus.vhd'
+Analyzing entity 'cross_slow_to_fast_clock_bus'("N:\Projekte\Soundboards\FPGA Soundboard GTB\source\HW 3.x GOSOF Tang nano 9K\src\slow_to_fast_clock_bus.vhd":7)
+Analyzing architecture 'behavioral'("N:\Projekte\Soundboards\FPGA Soundboard GTB\source\HW 3.x GOSOF Tang nano 9K\src\slow_to_fast_clock_bus.vhd":14)
+Analyzing VHDL file 'N:\Projekte\Soundboards\FPGA Soundboard GTB\source\HW 3.x GOSOF Tang nano 9K\src\RIOT_RAM\RIOT_RAM.vhd'
+Analyzing entity 'riot_ram'("N:\Projekte\Soundboards\FPGA Soundboard GTB\source\HW 3.x GOSOF Tang nano 9K\src\RIOT_RAM\RIOT_RAM.vhd":13)
+Analyzing architecture 'behavioral'("N:\Projekte\Soundboards\FPGA Soundboard GTB\source\HW 3.x GOSOF Tang nano 9K\src\RIOT_RAM\RIOT_RAM.vhd":23)
+Analyzing VHDL file 'N:\Projekte\Soundboards\FPGA Soundboard GTB\source\HW 3.x GOSOF Tang nano 9K\src\cpu_clk_gen.vhd'
+Analyzing entity 'cpu_clk_gen'("N:\Projekte\Soundboards\FPGA Soundboard GTB\source\HW 3.x GOSOF Tang nano 9K\src\cpu_clk_gen.vhd":14)
+Analyzing architecture 'behavioral'("N:\Projekte\Soundboards\FPGA Soundboard GTB\source\HW 3.x GOSOF Tang nano 9K\src\cpu_clk_gen.vhd":22)
+Analyzing VHDL file 'N:\Projekte\Soundboards\FPGA Soundboard GTB\source\HW 3.x GOSOF Tang nano 9K\src\T65\T65_Pack.vhd'
+Analyzing package 't65_pack'("N:\Projekte\Soundboards\FPGA Soundboard GTB\source\HW 3.x GOSOF Tang nano 9K\src\T65\T65_Pack.vhd":55)
+Analyzing package body 't65_pack'("N:\Projekte\Soundboards\FPGA Soundboard GTB\source\HW 3.x GOSOF Tang nano 9K\src\T65\T65_Pack.vhd":154)
+Analyzing VHDL file 'N:\Projekte\Soundboards\FPGA Soundboard GTB\source\HW 3.x GOSOF Tang nano 9K\src\T65\T65_MCode.vhd'
+Analyzing entity 't65_mcode'("N:\Projekte\Soundboards\FPGA Soundboard GTB\source\HW 3.x GOSOF Tang nano 9K\src\T65\T65_MCode.vhd":58)
+Analyzing architecture 'rtl'("N:\Projekte\Soundboards\FPGA Soundboard GTB\source\HW 3.x GOSOF Tang nano 9K\src\T65\T65_MCode.vhd":94)
+Analyzing VHDL file 'N:\Projekte\Soundboards\FPGA Soundboard GTB\source\HW 3.x GOSOF Tang nano 9K\src\T65\T65_ALU.vhd'
+Analyzing entity 't65_alu'("N:\Projekte\Soundboards\FPGA Soundboard GTB\source\HW 3.x GOSOF Tang nano 9K\src\T65\T65_ALU.vhd":57)
+Analyzing architecture 'rtl'("N:\Projekte\Soundboards\FPGA Soundboard GTB\source\HW 3.x GOSOF Tang nano 9K\src\T65\T65_ALU.vhd":70)
+Analyzing VHDL file 'N:\Projekte\Soundboards\FPGA Soundboard GTB\source\HW 3.x GOSOF Tang nano 9K\src\T65\T65.vhd'
+Analyzing entity 't65'("N:\Projekte\Soundboards\FPGA Soundboard GTB\source\HW 3.x GOSOF Tang nano 9K\src\T65\T65.vhd":134)
+Analyzing architecture 'rtl'("N:\Projekte\Soundboards\FPGA Soundboard GTB\source\HW 3.x GOSOF Tang nano 9K\src\T65\T65.vhd":166)
+Analyzing VHDL file 'N:\Projekte\Soundboards\FPGA Soundboard GTB\source\HW 3.x GOSOF Tang nano 9K\src\RIOT\R6532.vhd'
+Analyzing entity 'r6532'("N:\Projekte\Soundboards\FPGA Soundboard GTB\source\HW 3.x GOSOF Tang nano 9K\src\RIOT\R6532.vhd":40)
+Analyzing architecture 'rtl'("N:\Projekte\Soundboards\FPGA Soundboard GTB\source\HW 3.x GOSOF Tang nano 9K\src\RIOT\R6532.vhd":59)
+Analyzing VHDL file 'N:\Projekte\Soundboards\FPGA Soundboard GTB\source\HW 3.x GOSOF Tang nano 9K\src\dac.vhd'
+Analyzing entity 'dac'("N:\Projekte\Soundboards\FPGA Soundboard GTB\source\HW 3.x GOSOF Tang nano 9K\src\dac.vhd":22)
+Analyzing architecture 'rtl'("N:\Projekte\Soundboards\FPGA Soundboard GTB\source\HW 3.x GOSOF Tang nano 9K\src\dac.vhd":39)
+Analyzing VHDL file 'N:\Projekte\Soundboards\FPGA Soundboard GTB\source\HW 3.x GOSOF Tang nano 9K\src\SPI_Master.vhd'
+Analyzing entity 'spi_master'("N:\Projekte\Soundboards\FPGA Soundboard GTB\source\HW 3.x GOSOF Tang nano 9K\src\SPI_Master.vhd":21)
+Analyzing architecture 'behavioral'("N:\Projekte\Soundboards\FPGA Soundboard GTB\source\HW 3.x GOSOF Tang nano 9K\src\SPI_Master.vhd":39)
+Analyzing VHDL file 'N:\Projekte\Soundboards\FPGA Soundboard GTB\source\HW 3.x GOSOF Tang nano 9K\src\SD_Card.vhd'
+Analyzing entity 'sd_card'("N:\Projekte\Soundboards\FPGA Soundboard GTB\source\HW 3.x GOSOF Tang nano 9K\src\SD_Card.vhd":21)
+Analyzing architecture 'behavioral'("N:\Projekte\Soundboards\FPGA Soundboard GTB\source\HW 3.x GOSOF Tang nano 9K\src\SD_Card.vhd":44)
+Analyzing VHDL file 'N:\Projekte\Soundboards\FPGA Soundboard GTB\source\HW 3.x GOSOF Tang nano 9K\src\gowin_sp\gowin_sp.vhd'
+Analyzing entity 'gowin_sp'("N:\Projekte\Soundboards\FPGA Soundboard GTB\source\HW 3.x GOSOF Tang nano 9K\src\gowin_sp\gowin_sp.vhd":13)
+Analyzing architecture 'behavioral'("N:\Projekte\Soundboards\FPGA Soundboard GTB\source\HW 3.x GOSOF Tang nano 9K\src\gowin_sp\gowin_sp.vhd":26)
+Analyzing VHDL file 'N:\Projekte\Soundboards\FPGA Soundboard GTB\source\HW 3.x GOSOF Tang nano 9K\src\GOSOF80.vhd'
+Analyzing entity 'gosof80'("N:\Projekte\Soundboards\FPGA Soundboard GTB\source\HW 3.x GOSOF Tang nano 9K\src\GOSOF80.vhd":39)
+Analyzing architecture 'rtl'("N:\Projekte\Soundboards\FPGA Soundboard GTB\source\HW 3.x GOSOF Tang nano 9K\src\GOSOF80.vhd":74)
+Analyzing VHDL file 'N:\Projekte\Soundboards\FPGA Soundboard GTB\source\HW 3.x GOSOF Tang nano 9K\src\RIOT\riot.vhd'
+Analyzing entity 'riot'("N:\Projekte\Soundboards\FPGA Soundboard GTB\source\HW 3.x GOSOF Tang nano 9K\src\RIOT\riot.vhd":46)
+Analyzing architecture 'arch'("N:\Projekte\Soundboards\FPGA Soundboard GTB\source\HW 3.x GOSOF Tang nano 9K\src\RIOT\riot.vhd":68)
+Analyzing VHDL file 'N:\Projekte\Soundboards\FPGA Soundboard GTB\source\HW 3.x GOSOF Tang nano 9K\src\background_sound.vhd'
+Analyzing entity 'background_sound'("N:\Projekte\Soundboards\FPGA Soundboard GTB\source\HW 3.x GOSOF Tang nano 9K\src\background_sound.vhd":19)
+Analyzing architecture 'behavioral'("N:\Projekte\Soundboards\FPGA Soundboard GTB\source\HW 3.x GOSOF Tang nano 9K\src\background_sound.vhd":32)
+Analyzing VHDL file 'N:\Projekte\Soundboards\FPGA Soundboard GTB\source\HW 3.x GOSOF Tang nano 9K\src\gowin_ram16s\Soundrom.vhd'
+Analyzing entity 'gowin_ram16s'("N:\Projekte\Soundboards\FPGA Soundboard GTB\source\HW 3.x GOSOF Tang nano 9K\src\gowin_ram16s\Soundrom.vhd":13)
+Analyzing architecture 'behavioral'("N:\Projekte\Soundboards\FPGA Soundboard GTB\source\HW 3.x GOSOF Tang nano 9K\src\gowin_ram16s\Soundrom.vhd":23)
+Analyzing VHDL file 'N:\Projekte\Soundboards\FPGA Soundboard GTB\source\HW 3.x GOSOF Tang nano 9K\src\gowin_rpll\gowin_rpll.vhd'
+Analyzing entity 'gowin_rpll'("N:\Projekte\Soundboards\FPGA Soundboard GTB\source\HW 3.x GOSOF Tang nano 9K\src\gowin_rpll\gowin_rpll.vhd":13)
+Analyzing architecture 'behavioral'("N:\Projekte\Soundboards\FPGA Soundboard GTB\source\HW 3.x GOSOF Tang nano 9K\src\gowin_rpll\gowin_rpll.vhd":21)
+Analyzing VHDL file 'N:\Projekte\Soundboards\FPGA Soundboard GTB\source\HW 3.x GOSOF Tang nano 9K\src\sound_input.vhd'
+Analyzing entity 'sound_input'("N:\Projekte\Soundboards\FPGA Soundboard GTB\source\HW 3.x GOSOF Tang nano 9K\src\sound_input.vhd":9)
+Analyzing architecture 'behavioral'("N:\Projekte\Soundboards\FPGA Soundboard GTB\source\HW 3.x GOSOF Tang nano 9K\src\sound_input.vhd":19)
+Analyzing VHDL file 'N:\Projekte\Soundboards\FPGA Soundboard GTB\source\HW 3.x GOSOF Tang nano 9K\src\soundtest.vhd'
+Analyzing entity 'soundtest'("N:\Projekte\Soundboards\FPGA Soundboard GTB\source\HW 3.x GOSOF Tang nano 9K\src\soundtest.vhd":10)
+Analyzing architecture 'behavioral'("N:\Projekte\Soundboards\FPGA Soundboard GTB\source\HW 3.x GOSOF Tang nano 9K\src\soundtest.vhd":18)
+Processing 'gosof80(rtl)'("N:\Projekte\Soundboards\FPGA Soundboard GTB\source\HW 3.x GOSOF Tang nano 9K\src\GOSOF80.vhd":39)
+WARN  (EX4206) : Using initial value for 'bg_dfcmd_cmd' since it is never assigned("N:\Projekte\Soundboards\FPGA Soundboard GTB\source\HW 3.x GOSOF Tang nano 9K\src\GOSOF80.vhd":144)
+WARN  (EX4206) : Using initial value for 'bg_dfcmd_par2' since it is never assigned("N:\Projekte\Soundboards\FPGA Soundboard GTB\source\HW 3.x GOSOF Tang nano 9K\src\GOSOF80.vhd":146)
+Processing 'DFPlayer_Mini_CMD(Behavioral)'("N:\Projekte\Soundboards\FPGA Soundboard GTB\source\HW 3.x GOSOF Tang nano 9K\src\DFPlayer_Mini_CMD.vhd":58)
+WARN  (EX4206) : Using initial value for 'dfcmd_start_byte' since it is never assigned("N:\Projekte\Soundboards\FPGA Soundboard GTB\source\HW 3.x GOSOF Tang nano 9K\src\DFPlayer_Mini_CMD.vhd":92)
+WARN  (EX4206) : Using initial value for 'dfcmd_version' since it is never assigned("N:\Projekte\Soundboards\FPGA Soundboard GTB\source\HW 3.x GOSOF Tang nano 9K\src\DFPlayer_Mini_CMD.vhd":93)
+WARN  (EX4206) : Using initial value for 'dfcmd_len' since it is never assigned("N:\Projekte\Soundboards\FPGA Soundboard GTB\source\HW 3.x GOSOF Tang nano 9K\src\DFPlayer_Mini_CMD.vhd":94)
+WARN  (EX4206) : Using initial value for 'dfcmd_feedb' since it is never assigned("N:\Projekte\Soundboards\FPGA Soundboard GTB\source\HW 3.x GOSOF Tang nano 9K\src\DFPlayer_Mini_CMD.vhd":96)
+WARN  (EX4206) : Using initial value for 'dfcmd_end_byte' since it is never assigned("N:\Projekte\Soundboards\FPGA Soundboard GTB\source\HW 3.x GOSOF Tang nano 9K\src\DFPlayer_Mini_CMD.vhd":103)
+Processing 'SC01(Behavioral)'("N:\Projekte\Soundboards\FPGA Soundboard GTB\source\HW 3.x GOSOF Tang nano 9K\src\Votrax-SC01.vhd":19)
+WARN  (EX4206) : Using initial value for 'time_map' since it is never assigned("N:\Projekte\Soundboards\FPGA Soundboard GTB\source\HW 3.x GOSOF Tang nano 9K\src\Votrax-SC01.vhd":37)
+Processing 'Cross_Slow_To_Fast_Clock_Bus(Behavioral)'("N:\Projekte\Soundboards\FPGA Soundboard GTB\source\HW 3.x GOSOF Tang nano 9K\src\slow_to_fast_clock_bus.vhd":7)
+Processing 'RIOT_RAM(Behavioral)'("N:\Projekte\Soundboards\FPGA Soundboard GTB\source\HW 3.x GOSOF Tang nano 9K\src\RIOT_RAM\RIOT_RAM.vhd":13)
+Processing 'cpu_clk_gen(Behavioral)'("N:\Projekte\Soundboards\FPGA Soundboard GTB\source\HW 3.x GOSOF Tang nano 9K\src\cpu_clk_gen.vhd":14)
+WARN  (EX4546) : Not all partial formals of 'a' have actuals("N:\Projekte\Soundboards\FPGA Soundboard GTB\source\HW 3.x GOSOF Tang nano 9K\src\GOSOF80.vhd":463)
+Processing 'T65(rtl)'("N:\Projekte\Soundboards\FPGA Soundboard GTB\source\HW 3.x GOSOF Tang nano 9K\src\T65\T65.vhd":134)
+Processing 'T65_MCode(rtl)'("N:\Projekte\Soundboards\FPGA Soundboard GTB\source\HW 3.x GOSOF Tang nano 9K\src\T65\T65_MCode.vhd":58)
+'others' clause is never selected("N:\Projekte\Soundboards\FPGA Soundboard GTB\source\HW 3.x GOSOF Tang nano 9K\src\T65\T65_MCode.vhd":1084)
+Processing 'T65_ALU(rtl)'("N:\Projekte\Soundboards\FPGA Soundboard GTB\source\HW 3.x GOSOF Tang nano 9K\src\T65\T65_ALU.vhd":57)
+Processing 'R6532(RTL)'("N:\Projekte\Soundboards\FPGA Soundboard GTB\source\HW 3.x GOSOF Tang nano 9K\src\RIOT\R6532.vhd":40)
+'others' clause is never selected("N:\Projekte\Soundboards\FPGA Soundboard GTB\source\HW 3.x GOSOF Tang nano 9K\src\RIOT\R6532.vhd":202)
+'others' clause is never selected("N:\Projekte\Soundboards\FPGA Soundboard GTB\source\HW 3.x GOSOF Tang nano 9K\src\RIOT\R6532.vhd":246)
+'others' clause is never selected("N:\Projekte\Soundboards\FPGA Soundboard GTB\source\HW 3.x GOSOF Tang nano 9K\src\RIOT\R6532.vhd":299)
+Processing 'dac(rtl)'("N:\Projekte\Soundboards\FPGA Soundboard GTB\source\HW 3.x GOSOF Tang nano 9K\src\dac.vhd":22)
+Processing 'SD_Card(Behavioral)'("N:\Projekte\Soundboards\FPGA Soundboard GTB\source\HW 3.x GOSOF Tang nano 9K\src\SD_Card.vhd":21)
+Processing 'SPI_Master(quarz_taktfrequenz=27000000,spi_taktfrequenz=400000,laenge=112)(Behavioral)'("N:\Projekte\Soundboards\FPGA Soundboard GTB\source\HW 3.x GOSOF Tang nano 9K\src\SPI_Master.vhd":21)
+Processing 'SPI_Master(quarz_taktfrequenz=27000000,spi_taktfrequenz=400000)(Behavioral)'("N:\Projekte\Soundboards\FPGA Soundboard GTB\source\HW 3.x GOSOF Tang nano 9K\src\SPI_Master.vhd":21)
+Processing 'Gowin_SP(Behavioral)'("N:\Projekte\Soundboards\FPGA Soundboard GTB\source\HW 3.x GOSOF Tang nano 9K\src\gowin_sp\gowin_sp.vhd":13)
+NOTE  (EX0101) : Current top module is "gosof80"
+[5%] Running netlist conversion ...
+WARN  (CV0016) : Input DFP_Busy is unused("N:\Projekte\Soundboards\FPGA Soundboard GTB\source\HW 3.x GOSOF Tang nano 9K\src\GOSOF80.vhd":61)
+WARN  (CV0016) : Input DFP_rx is unused("N:\Projekte\Soundboards\FPGA Soundboard GTB\source\HW 3.x GOSOF Tang nano 9K\src\GOSOF80.vhd":63)
+Running device independent optimization ...
+[10%] Optimizing Phase 0 completed
+[15%] Optimizing Phase 1 completed
+[25%] Optimizing Phase 2 completed
+Running inference ...
+[30%] Inferring Phase 0 completed
+[40%] Inferring Phase 1 completed
+[50%] Inferring Phase 2 completed
+[55%] Inferring Phase 3 completed
+Running technical mapping ...
+[60%] Tech-Mapping Phase 0 completed
+[65%] Tech-Mapping Phase 1 completed
+[75%] Tech-Mapping Phase 2 completed
+[80%] Tech-Mapping Phase 3 completed
+[90%] Tech-Mapping Phase 4 completed
+[95%] Generate netlist file "N:\Projekte\Soundboards\FPGA Soundboard GTB\source\HW 3.x GOSOF Tang nano 9K\impl\gwsynthesis\GOSOF80.vg" completed
+[100%] Generate report file "N:\Projekte\Soundboards\FPGA Soundboard GTB\source\HW 3.x GOSOF Tang nano 9K\impl\gwsynthesis\GOSOF80_syn.rpt.html" completed
+GowinSynthesis finish

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Module name="gosof80" Register="8" Lut="126" T_Register="667(8)" T_Alu="106(0)" T_Lut="1903(126)" T_MULT18X18="1(0)" T_Bsram="2(0)" T_Ssram="21(0)">
+ <SubModule name="DFP_send" Register="34" Lut="61" T_Register="34(34)" T_Lut="61(61)"/>
+ <SubModule name="SC01_Simu" Register="27" Lut="162" MULT18X18="1" T_Register="27(27)" T_Lut="162(162)" T_MULT18X18="1(1)"/>
+ <SubModule name="META1" Register="2" Lut="3" Ssram="2" T_Register="2(2)" T_Lut="3(3)" T_Ssram="2(2)"/>
+ <SubModule name="RIOT_RAM" Lut="67" Ssram="16" T_Lut="67(67)" T_Ssram="16(16)"/>
+ <SubModule name="clock_gen" Register="8" Alu="11" Lut="9" T_Register="8(8)" T_Alu="11(11)" T_Lut="9(9)"/>
+ <SubModule name="CPU" Register="163" Alu="43" Lut="594" T_Register="163(163)" T_Alu="63(43)" T_Lut="838(594)">
+  <SubModule name="mcode" Lut="114" T_Lut="114(114)"/>
+  <SubModule name="alu" Alu="20" Lut="130" T_Alu="20(20)" T_Lut="130(130)"/>
+ </SubModule>
+ <SubModule name="RIOT" Register="76" Alu="19" Lut="107" T_Register="76(76)" T_Alu="19(19)" T_Lut="107(107)"/>
+ <SubModule name="Audio_DAC" Register="11" Alu="9" T_Register="11(11)" T_Alu="9(9)"/>
+ <SubModule name="SD_CARD" Register="146" Lut="334" T_Register="338(146)" T_Alu="4(0)" T_Lut="530(334)" T_Ssram="3(0)">
+  <SubModule name="SD_CARD_ACCESS" Register="161" Alu="4" Lut="161" Ssram="3" T_Register="161(161)" T_Alu="4(4)" T_Lut="161(161)" T_Ssram="3(3)"/>
+  <SubModule name="SD_CARD_READ" Register="31" Lut="35" T_Register="31(31)" T_Lut="35(35)"/>
+ </SubModule>
+ <SubModule name="SOUNDROM1" Bsram="1" T_Bsram="1(1)"/>
+ <SubModule name="SOUNDROM2" Bsram="1" T_Bsram="1(1)"/>
+</Module>

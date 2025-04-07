@@ -1,0 +1,184 @@
+[
+ {
+  "InstFile" : "N:/Projekte/Soundboards/FPGA Soundboard GTB/source/HW 3.x GOSOF Tang nano 9K/src/GOSOF80.vhd",
+  "InstLine" : 39,
+  "InstName" : "gosof80",
+  "ModuleFile" : "N:/Projekte/Soundboards/FPGA Soundboard GTB/source/HW 3.x GOSOF Tang nano 9K/src/GOSOF80.vhd",
+  "ModuleLine" : 39,
+  "ModuleName" : "gosof80",
+  "SubInsts" : [
+   {
+    "InstFile" : "N:/Projekte/Soundboards/FPGA Soundboard GTB/source/HW 3.x GOSOF Tang nano 9K/src/GOSOF80.vhd",
+    "InstLine" : 179,
+    "InstName" : "DFP_send",
+    "ModuleFile" : "N:/Projekte/Soundboards/FPGA Soundboard GTB/source/HW 3.x GOSOF Tang nano 9K/src/DFPlayer_Mini_CMD.vhd",
+    "ModuleLine" : 58,
+    "ModuleName" : "DFPlayer_Mini_CMD"
+   },
+   {
+    "InstFile" : "N:/Projekte/Soundboards/FPGA Soundboard GTB/source/HW 3.x GOSOF Tang nano 9K/src/GOSOF80.vhd",
+    "InstLine" : 190,
+    "InstName" : "SC01_Simu",
+    "ModuleFile" : "N:/Projekte/Soundboards/FPGA Soundboard GTB/source/HW 3.x GOSOF Tang nano 9K/src/Votrax-SC01.vhd",
+    "ModuleLine" : 19,
+    "ModuleName" : "SC01"
+   },
+   {
+    "InstFile" : "N:/Projekte/Soundboards/FPGA Soundboard GTB/source/HW 3.x GOSOF Tang nano 9K/src/GOSOF80.vhd",
+    "InstLine" : 324,
+    "InstName" : "META1",
+    "ModuleFile" : "N:/Projekte/Soundboards/FPGA Soundboard GTB/source/HW 3.x GOSOF Tang nano 9K/src/slow_to_fast_clock_bus.vhd",
+    "ModuleLine" : 7,
+    "ModuleName" : "Cross_Slow_To_Fast_Clock_Bus"
+   },
+   {
+    "InstFile" : "N:/Projekte/Soundboards/FPGA Soundboard GTB/source/HW 3.x GOSOF Tang nano 9K/src/GOSOF80.vhd",
+    "InstLine" : 433,
+    "InstName" : "RIOT_RAM",
+    "ModuleFile" : "N:/Projekte/Soundboards/FPGA Soundboard GTB/source/HW 3.x GOSOF Tang nano 9K/src/RIOT_RAM/RIOT_RAM.vhd",
+    "ModuleLine" : 13,
+    "ModuleName" : "RIOT_RAM"
+   },
+   {
+    "InstFile" : "N:/Projekte/Soundboards/FPGA Soundboard GTB/source/HW 3.x GOSOF Tang nano 9K/src/GOSOF80.vhd",
+    "InstLine" : 451,
+    "InstName" : "clock_gen",
+    "ModuleFile" : "N:/Projekte/Soundboards/FPGA Soundboard GTB/source/HW 3.x GOSOF Tang nano 9K/src/cpu_clk_gen.vhd",
+    "ModuleLine" : 14,
+    "ModuleName" : "cpu_clk_gen"
+   },
+   {
+    "InstFile" : "N:/Projekte/Soundboards/FPGA Soundboard GTB/source/HW 3.x GOSOF Tang nano 9K/src/GOSOF80.vhd",
+    "InstLine" : 461,
+    "InstName" : "CPU",
+    "ModuleFile" : "N:/Projekte/Soundboards/FPGA Soundboard GTB/source/HW 3.x GOSOF Tang nano 9K/src/T65/T65.vhd",
+    "ModuleLine" : 134,
+    "ModuleName" : "T65",
+    "SubInsts" : [
+     {
+      "InstFile" : "N:/Projekte/Soundboards/FPGA Soundboard GTB/source/HW 3.x GOSOF Tang nano 9K/src/T65/T65.vhd",
+      "InstLine" : 275,
+      "InstName" : "mcode",
+      "ModuleFile" : "N:/Projekte/Soundboards/FPGA Soundboard GTB/source/HW 3.x GOSOF Tang nano 9K/src/T65/T65_MCode.vhd",
+      "ModuleLine" : 58,
+      "ModuleName" : "T65_MCode"
+     },
+     {
+      "InstFile" : "N:/Projekte/Soundboards/FPGA Soundboard GTB/source/HW 3.x GOSOF Tang nano 9K/src/T65/T65.vhd",
+      "InstLine" : 312,
+      "InstName" : "alu",
+      "ModuleFile" : "N:/Projekte/Soundboards/FPGA Soundboard GTB/source/HW 3.x GOSOF Tang nano 9K/src/T65/T65_ALU.vhd",
+      "ModuleLine" : 57,
+      "ModuleName" : "T65_ALU"
+     }
+    ]
+   },
+   {
+    "InstFile" : "N:/Projekte/Soundboards/FPGA Soundboard GTB/source/HW 3.x GOSOF Tang nano 9K/src/GOSOF80.vhd",
+    "InstLine" : 487,
+    "InstName" : "RIOT",
+    "ModuleFile" : "N:/Projekte/Soundboards/FPGA Soundboard GTB/source/HW 3.x GOSOF Tang nano 9K/src/RIOT/R6532.vhd",
+    "ModuleLine" : 40,
+    "ModuleName" : "R6532"
+   },
+   {
+    "InstFile" : "N:/Projekte/Soundboards/FPGA Soundboard GTB/source/HW 3.x GOSOF Tang nano 9K/src/GOSOF80.vhd",
+    "InstLine" : 561,
+    "InstName" : "Audio_DAC",
+    "ModuleFile" : "N:/Projekte/Soundboards/FPGA Soundboard GTB/source/HW 3.x GOSOF Tang nano 9K/src/dac.vhd",
+    "ModuleLine" : 22,
+    "ModuleName" : "dac"
+   },
+   {
+    "InstFile" : "N:/Projekte/Soundboards/FPGA Soundboard GTB/source/HW 3.x GOSOF Tang nano 9K/src/GOSOF80.vhd",
+    "InstLine" : 578,
+    "InstName" : "SD_CARD",
+    "ModuleFile" : "N:/Projekte/Soundboards/FPGA Soundboard GTB/source/HW 3.x GOSOF Tang nano 9K/src/SD_Card.vhd",
+    "ModuleLine" : 21,
+    "ModuleName" : "SD_Card",
+    "SubInsts" : [
+     {
+      "InstFile" : "N:/Projekte/Soundboards/FPGA Soundboard GTB/source/HW 3.x GOSOF Tang nano 9K/src/SD_Card.vhd",
+      "InstLine" : 101,
+      "InstName" : "SD_CARD_ACCESS",
+      "ModuleFile" : "N:/Projekte/Soundboards/FPGA Soundboard GTB/source/HW 3.x GOSOF Tang nano 9K/src/SPI_Master.vhd",
+      "ModuleLine" : 21,
+      "ModuleName" : "SPI_Master"
+     },
+     {
+      "InstFile" : "N:/Projekte/Soundboards/FPGA Soundboard GTB/source/HW 3.x GOSOF Tang nano 9K/src/SD_Card.vhd",
+      "InstLine" : 119,
+      "InstName" : "SD_CARD_READ",
+      "ModuleFile" : "N:/Projekte/Soundboards/FPGA Soundboard GTB/source/HW 3.x GOSOF Tang nano 9K/src/SPI_Master.vhd",
+      "ModuleLine" : 21,
+      "ModuleName" : "SPI_Master"
+     }
+    ]
+   },
+   {
+    "InstFile" : "N:/Projekte/Soundboards/FPGA Soundboard GTB/source/HW 3.x GOSOF Tang nano 9K/src/GOSOF80.vhd",
+    "InstLine" : 614,
+    "InstName" : "SOUNDROM1",
+    "ModuleFile" : "N:/Projekte/Soundboards/FPGA Soundboard GTB/source/HW 3.x GOSOF Tang nano 9K/src/gowin_sp/gowin_sp.vhd",
+    "ModuleLine" : 13,
+    "ModuleName" : "Gowin_SP"
+   },
+   {
+    "InstFile" : "N:/Projekte/Soundboards/FPGA Soundboard GTB/source/HW 3.x GOSOF Tang nano 9K/src/GOSOF80.vhd",
+    "InstLine" : 629,
+    "InstName" : "SOUNDROM2",
+    "ModuleFile" : "N:/Projekte/Soundboards/FPGA Soundboard GTB/source/HW 3.x GOSOF Tang nano 9K/src/gowin_sp/gowin_sp.vhd",
+    "ModuleLine" : 13,
+    "ModuleName" : "Gowin_SP"
+   }
+  ]
+ },
+ {
+  "InstFile" : "N:/Projekte/Soundboards/FPGA Soundboard GTB/source/HW 3.x GOSOF Tang nano 9K/src/RIOT/riot.vhd",
+  "InstLine" : 46,
+  "InstName" : "RIOT",
+  "ModuleFile" : "N:/Projekte/Soundboards/FPGA Soundboard GTB/source/HW 3.x GOSOF Tang nano 9K/src/RIOT/riot.vhd",
+  "ModuleLine" : 46,
+  "ModuleName" : "RIOT"
+ },
+ {
+  "InstFile" : "N:/Projekte/Soundboards/FPGA Soundboard GTB/source/HW 3.x GOSOF Tang nano 9K/src/background_sound.vhd",
+  "InstLine" : 19,
+  "InstName" : "background_sound",
+  "ModuleFile" : "N:/Projekte/Soundboards/FPGA Soundboard GTB/source/HW 3.x GOSOF Tang nano 9K/src/background_sound.vhd",
+  "ModuleLine" : 19,
+  "ModuleName" : "background_sound"
+ },
+ {
+  "InstFile" : "N:/Projekte/Soundboards/FPGA Soundboard GTB/source/HW 3.x GOSOF Tang nano 9K/src/gowin_ram16s/Soundrom.vhd",
+  "InstLine" : 13,
+  "InstName" : "Gowin_RAM16S",
+  "ModuleFile" : "N:/Projekte/Soundboards/FPGA Soundboard GTB/source/HW 3.x GOSOF Tang nano 9K/src/gowin_ram16s/Soundrom.vhd",
+  "ModuleLine" : 13,
+  "ModuleName" : "Gowin_RAM16S"
+ },
+ {
+  "InstFile" : "N:/Projekte/Soundboards/FPGA Soundboard GTB/source/HW 3.x GOSOF Tang nano 9K/src/gowin_rpll/gowin_rpll.vhd",
+  "InstLine" : 13,
+  "InstName" : "Gowin_rPLL",
+  "ModuleFile" : "N:/Projekte/Soundboards/FPGA Soundboard GTB/source/HW 3.x GOSOF Tang nano 9K/src/gowin_rpll/gowin_rpll.vhd",
+  "ModuleLine" : 13,
+  "ModuleName" : "Gowin_rPLL"
+ },
+ {
+  "InstFile" : "N:/Projekte/Soundboards/FPGA Soundboard GTB/source/HW 3.x GOSOF Tang nano 9K/src/sound_input.vhd",
+  "InstLine" : 9,
+  "InstName" : "sound_input",
+  "ModuleFile" : "N:/Projekte/Soundboards/FPGA Soundboard GTB/source/HW 3.x GOSOF Tang nano 9K/src/sound_input.vhd",
+  "ModuleLine" : 9,
+  "ModuleName" : "sound_input"
+ },
+ {
+  "InstFile" : "N:/Projekte/Soundboards/FPGA Soundboard GTB/source/HW 3.x GOSOF Tang nano 9K/src/soundtest.vhd",
+  "InstLine" : 10,
+  "InstName" : "soundtest",
+  "ModuleFile" : "N:/Projekte/Soundboards/FPGA Soundboard GTB/source/HW 3.x GOSOF Tang nano 9K/src/soundtest.vhd",
+  "ModuleLine" : 10,
+  "ModuleName" : "soundtest"
+ }
+]
